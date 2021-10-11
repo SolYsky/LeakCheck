@@ -1,0 +1,20 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 25" width="25" height="25">
+	<title>bell 1-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M2 2L23 2L23 23L2 23L2 2Z" />
+		</clipPath>
+		<image  width="4" height="4" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAEBAMAAABb34NNAAAAAXNSR0IB2cksfwAAABVQTFRF/1wA/1wA/1wA/1wA/1wA/1wA/1wAo3bUgAAAAAd0Uk5Tddtx4//ccr6rcH8AAAARSURBVHicY2AUYjBxBSHWMAAGxgFhkIWnugAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff;stroke: #ffffff } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M12.5 23C10.81 23 9.44 21.63 9.44 19.94C9.44 19.7 9.63 19.5 9.88 19.5C10.12 19.5 10.31 19.7 10.31 19.94C10.31 21.14 11.29 22.13 12.5 22.13C13.71 22.13 14.69 21.14 14.69 19.94C14.69 19.7 14.88 19.5 15.13 19.5C15.37 19.5 15.56 19.7 15.56 19.94C15.56 21.63 14.19 23 12.5 23Z" />
+			<path id="Layer" fill-rule="evenodd" class="shp0" d="M19.94 20.38L5.06 20.38C4.34 20.38 3.75 19.79 3.75 19.06C3.75 18.68 3.92 18.32 4.21 18.07C5.59 16.9 6.38 15.2 6.38 13.41L6.38 10.75C6.38 7.37 9.12 4.63 12.5 4.63C15.88 4.63 18.63 7.37 18.63 10.75L18.63 13.41C18.63 15.2 19.41 16.9 20.78 18.06C21.08 18.32 21.25 18.68 21.25 19.06C21.25 19.79 20.66 20.38 19.94 20.38ZM12.5 5.5C9.6 5.5 7.25 7.85 7.25 10.75L7.25 13.41C7.25 15.46 6.35 17.4 4.78 18.73C4.68 18.81 4.63 18.93 4.63 19.06C4.63 19.3 4.82 19.5 5.06 19.5L19.94 19.5C20.18 19.5 20.38 19.3 20.38 19.06C20.38 18.93 20.32 18.81 20.22 18.73C18.65 17.4 17.75 15.46 17.75 13.41L17.75 10.75C17.75 7.85 15.4 5.5 12.5 5.5Z" />
+		</g>
+		<use id="Layer 1" href="#img1" x="19" y="2" />
+	</g>
+</svg>

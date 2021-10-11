@@ -1,0 +1,15 @@
+{
+    "prod":{
+        "baseURL":"",
+        "Server_URL" : "https://leakcheck.net/api/public?key=ea0a7041a2f96da95853c893d77d2a158604d109&check="
+
+    },
+    "test":{
+        "baseURL":"",
+        "Server_URL" : "https://leakcheck.net/api/public?key=ea0a7041a2f96da95853c893d77d2a158604d109&check="
+    },
+    "dev":{
+        "baseURL":"",
+        "Server_URL" : "https://leakcheck.net/api/public?key=ea0a7041a2f96da95853c893d77d2a158604d109&check="
+    }
+}

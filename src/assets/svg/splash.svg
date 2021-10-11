@@ -1,0 +1,49 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 640" width="360" height="640">
+	<title>Preloader-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 0L360 0L360 640L0 640L0 0Z" />
+		</clipPath>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="-159.5" y1="-165" x2="84" y2="181">
+			<stop offset="0" stop-color="#3b3d40"  />
+			<stop offset="1" stop-color="#1f2327"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="269.5" y1="493" x2="513" y2="839">
+			<stop offset="0" stop-color="#1f2327"  />
+			<stop offset="1" stop-color="#3b3d40"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="312.83" y1="407.031" x2="376.786" y2="497.908">
+			<stop offset="0" stop-color="#1f2327"  />
+			<stop offset="1" stop-color="#3b3d40"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="31.914" y1="233.959" x2="60.665" y2="274.812">
+			<stop offset="0" stop-color="#1f2327"  />
+			<stop offset="1" stop-color="#3b3d40"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #212529 } 
+		.shp1 { fill: url(#grd1) } 
+		.shp2 { fill: url(#grd2) } 
+		.shp3 { fill: url(#grd3) } 
+		.shp4 { fill: url(#grd4) } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="shp0" d="M0 0L360 0L360 640L0 640L0 0Z" />
+			<g id="Layer">
+				<path id="Layer" class="shp1" d="M-27.5 208C-142.25 208 -235 115.25 -235 0.5C-235 -114.25 -142.25 -207 -27.5 -207C87.25 -207 180 -114.25 180 0.5C180 115.25 87.25 208 -27.5 208Z" />
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="shp2" d="M401.5 866C286.75 866 194 773.25 194 658.5C194 543.75 286.75 451 401.5 451C516.25 451 609 543.75 609 658.5C609 773.25 516.25 866 401.5 866Z" />
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="shp3" d="M347.5 505C317.36 505 293 480.64 293 450.5C293 420.36 317.36 396 347.5 396C377.64 396 402 420.36 402 450.5C402 480.64 377.64 505 347.5 505Z" />
+			</g>
+			<g id="Layer">
+				<path id="Layer" class="shp4" d="M47.5 278C33.95 278 23 267.05 23 253.5C23 239.95 33.95 229 47.5 229C61.05 229 72 239.95 72 253.5C72 267.05 61.05 278 47.5 278Z" />
+			</g>
+		</g>
+	</g>
+</svg>
